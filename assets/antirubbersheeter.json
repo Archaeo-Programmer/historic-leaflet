@@ -1,53 +1,88 @@
 {
-    "width": 2000,
-    "placesstring": "College Hall, Morrill Hall, Murrow Complex, Math Learning Annex, Bryan Hall and Clock Tower, Carpenter Hall, McCroskey Hall, Stevens Hall, Stimson Hall, Wilson-Short Hall, Troy Hall, Commons, Van Doren Hall, Community, Duncan Dunn, President's House",
-    "imgururl": "https://i.imgur.com/bJcrjY9.jpg",
-    "height": 1347,
-    "places": [
-      {
-        "name": "stadium",
-        "y": 1244,
-        "x": 898
-      },
-      {
-        "name": "tree",
-        "y": 658,
-        "x": 734
-      },
-      {
-        "name": "building",
-        "y": 638,
-        "x": 1154
-      },
-      {
-        "name": "bigger building",
-        "y": 1044,
-        "x": 778
-      },
-      {
-        "name": "more trees",
-        "y": 760,
-        "x": 288
-      },
-      {
-        "name": "road",
-        "y": 432,
-        "x": 1448
-      },
-      {
-        "name": "green space",
-        "y": 318,
-        "x": 584
-      },
-      {
-        "name": "quad",
-        "y": 986,
-        "x": 1718
-      },
-      {
-        "name": "wow!",
-        "y": 1116,
-        "x": 1272
-      }
-    ]
+  "width": 2000,
+  "placesstring": "College Hall, Morrill Hall, Murrow Complex, Math Learning Annex, Bryan Hall and Clock Tower, Carpenter Hall, McCroskey Hall, Stevens Hall, Stimson Hall, Wilson-Short Hall, Troy Hall, Commons, Van Doren Hall, Community, Duncan Dunn, President's House",
+  "imgururl": "https://i.imgur.com/1YTbA3w.jpg",
+  "height": 1347,
+  "places": [
+    {
+      "name": "College Hall",
+      "y": 1120,
+      "x": 1130
+    },
+    {
+      "name": "Morrill Hall",
+      "y": 856,
+      "x": 1052
+    },
+    {
+      "name": "Murrow Complex",
+      "y": 1002,
+      "x": 972
+    },
+    {
+      "name": "Math Learning Annex",
+      "y": 784,
+      "x": 1356
+    },
+    {
+      "name": "Bryan Hall and Clock Tower",
+      "y": 1056,
+      "x": 800
+    },
+    {
+      "name": "Carpenter Hall",
+      "y": 670,
+      "x": 1140
+    },
+    {
+      "name": "McCroskey Hall",
+      "y": 918,
+      "x": 438
+    },
+    {
+      "name": "Stevens Hall",
+      "y": 980,
+      "x": 598
+    },
+    {
+      "name": "Stimson Hall",
+      "y": 1008,
+      "x": 1670
+    },
+    {
+      "name": "Wilson-Short Hall",
+      "y": 1238,
+      "x": 1220
+    },
+    {
+      "name": "Troy Hall",
+      "y": 1180,
+      "x": 1570
+    },
+    {
+      "name": "Commons",
+      "y": 682,
+      "x": 1918
+    },
+    {
+      "name": "Van Doren Hall",
+      "y": 1120,
+      "x": 690
+    },
+    {
+      "name": "Community",
+      "y": 838,
+      "x": 236
+    },
+    {
+      "name": "Duncan Dunn",
+      "y": 880,
+      "x": 118
+    },
+    {
+      "name": "President's House",
+      "y": 492,
+      "x": 118
+    }
+  ]
 }
